@@ -5,7 +5,6 @@ A sleek and modern **Dark UI Landing Page** built using **HTML** and **CSS**. Th
 ## 🔗 Live Preview
 
 👉 [Live Website](https://arafathaider777.github.io/Assianment-1/)  
-_(Make sure GitHub Pages is enabled on your repo's `main` branch for this link to work.)_
 
 ---
 
